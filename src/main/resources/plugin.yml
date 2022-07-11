@@ -1,0 +1,7 @@
+name: SMPly NoEndermanGrief
+version: '${project.version}'
+main: io.github.zohiu.smplynoendermangrief.SMPlyNoEndermanGrief
+api-version: 1.19
+authors: [ Zohiu ]
+description: Prevents any enderman from picking up or placing blocks.
+website: https://github.com/Zohiu/SMPly-NoEndermanGrief
